@@ -1,0 +1,15 @@
+{
+  "name": "changelog",
+  "description": "Install and operate a product changelog in any web app. Ships a stack-agnostic specification (data model, backend operation contracts, UI contracts, security invariants) that the agent adapts to the host repo's own database, auth, and design system — then a What's New modal with per-user dismissal, a changelog page, and a draft-then-publish admin console.",
+  "version": "0.1.0",
+  "author": {
+    "name": "adialia"
+  },
+  "keywords": [
+    "changelog",
+    "whats-new",
+    "release-notes",
+    "product-updates",
+    "onboarding"
+  ]
+}

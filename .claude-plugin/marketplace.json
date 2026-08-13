@@ -1,0 +1,15 @@
+{
+  "name": "changelog-kit",
+  "metadata": {
+    "description": "Drop-in product changelog: a stack-agnostic spec an agent adapts to your repo, producing a What's New modal, a changelog page, per-user read state, and a draft-then-publish admin console."
+  },
+  "owner": {
+    "name": "adialia"
+  },
+  "plugins": [
+    {
+      "name": "changelog",
+      "source": "./plugins/changelog"
+    }
+  ]
+}
